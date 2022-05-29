@@ -605,8 +605,8 @@
 	}
 
 	.banner-info h2 {
-		font-size: 40px; /*48 au depart thomas*/
-		line-height: 20px; /*15px au depart thomas*/		
+		font-size: 35px; /*48 au depart thomas*/
+		line-height: 18px; /*15px au depart thomas*/		
 	}
 	.banner-info h3 {
 		letter-spacing: 8px;
